@@ -9,7 +9,7 @@ Họ tên: Lương Lưu Minh Tân
 Mã sinh viên: B2011990
 Lớp: Hệ Thống Thông Tin
 Mã lớp: DI2095A1
-Trường: Công Nghệ Thông Tin & Truyền Thông
+Trường: Công Nghệ Thông Tin \& Truyền Thông
 ```
 ## Thông tin nhóm
 
