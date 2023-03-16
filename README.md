@@ -1,6 +1,6 @@
 
 # DỰ ÁN QUẢN LÝ HỆ THỐNG BÁN VÉ XE KHÁCH
-Dự án quản lý hệ thống bán vé xe khách dựa trên ý tưởng của trang bán vé xe khách [_futabus_](www.futabus.vn)
+Dự án quản lý hệ thống bán vé xe khách dựa trên ý tưởng của trang bán vé xe khách [_futabus_](https://www.futabus.vn)
 ---
 
 ## Thông tin cá nhân
@@ -9,7 +9,7 @@ Họ tên: Lương Lưu Minh Tân
 Mã sinh viên: B2011990
 Lớp: Hệ Thống Thông Tin
 Mã lớp: DI2095A1
-Trường: Công Nghệ Thông Tin \& Truyền Thông
+Trường: Công Nghệ Thông Tin "&" Truyền Thông
 ```
 ## Thông tin nhóm
 
